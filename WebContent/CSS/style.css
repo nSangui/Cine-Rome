@@ -1,0 +1,23 @@
+
+header{
+	background : url(/TPCineRome/CSS/bobine.jpeg);
+	overflow : hidden;
+	border-radius: 10px;
+	color : white;
+}
+
+header form{
+	color : white;
+}
+
+#connexion{
+	color : #808080;
+}
+
+section{
+	background-color : #EEF3CF;
+	border-radius : 10px;
+    overflow: hidden;
+}
+
+
